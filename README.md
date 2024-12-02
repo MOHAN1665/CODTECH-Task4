@@ -1,5 +1,3 @@
-# README
-
 **Name:** P. MOHAN KUMAR  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT12DS2585  
